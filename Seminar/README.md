@@ -303,19 +303,6 @@
 
 ---
 
-### Подготовка за Тест 1
-
-<details>
-<summary><h3>Тест 1 - Обхват: Седмици 1–7 (Scheme)</h3></summary>
-
-Теми: Основи на Scheme, модел на средите, процеси, функции от по-висок ред, списъци, абстракция с данни, дървета и графи, потоци
-
-- [Tasks.md](Test1_Preparation/Tasks.md)
-
-</details>
-
----
-
 ### Част III - Основи на Haskell (Седмици 8–10)
 
 <details>
@@ -592,51 +579,6 @@
 - [Examples.md](Week_14_Monads/Examples.md)
 - [Tasks.md](Week_14_Monads/Tasks.md)
 - [TasksForHome.md](Week_14_Monads/TasksForHome.md)
-
-</details>
-
----
-
-### Подготовка за Тест 2
-
-<details>
-<summary><h3>Тест 2 - Обхват: Седмици 8–14 (Haskell)</h3></summary>
-
-Теми: Основи на Haskell, списъци и HOF, алгебрични типове, класове, мързеливо оценяване, IO, функтори, моноиди, монади
-
-- [Tasks.md](Test2_Preparation/Tasks.md)
-
-</details>
-
----
-
-### Подготовка за изпити и проект
-
-<details>
-<summary><h3>Подготовка за Изпит</h3></summary>
-
-Обхват: Целият курс (Седмици 1–14)
-
-- [Tasks.md](Exam_Preparation/Tasks.md) - практическа част
-- [TheoryQuestions.md](Exam_Preparation/TheoryQuestions.md) - теоретична част по конспекта
-
-</details>
-
-<details>
-<summary><h3>Подготовка за Поправка</h3></summary>
-
-Обхват: Целият курс + често срещани грешки
-
-- [Tasks.md](Retake_Preparation/Tasks.md)
-
-</details>
-
-<details>
-<summary><h3>Учебен проект</h3></summary>
-
-Изисквания, критерии за оценяване и примерни теми
-
-- [README.md](Project/README.md)
 
 </details>
 
