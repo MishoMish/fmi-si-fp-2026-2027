@@ -100,6 +100,7 @@
 - [Examples.md](Week_02_Functions_Environments/Examples.md)
 - [Tasks.md](Week_02_Functions_Environments/Tasks.md)
 - [TasksForHome.md](Week_02_Functions_Environments/TasksForHome.md)
+- [Interesting.md](Week_02_Functions_Environments/Interesting.md) - допълнителни теми и задачи-предизвикателства
 
 </details>
 
